@@ -1,11 +1,11 @@
 {
-    "name": "Purple Serenity",
-    "description": "Purple Serenity blends bright pinks & dark purples for a relaxing, elegant atmosphere.",
-    "version": "2.1.0",
+    "name": "Purple",
+    "description": "Purple blends bright pinks & dark purples for a relaxing, elegant atmosphere.",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "Cyclone",
-            "id": "605791172530536449"
+            "name": "idkdontaskme",
+            "id": "891320985939234817"
         }
     ],
     "semanticColors": {
